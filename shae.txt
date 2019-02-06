@@ -5,7 +5,7 @@ My fave animal: Frog
 amending
 
 
-My fave color: Red
+My fave color: No, Blue! {merged}
 
 
 COPYRIGHT (c) 2019
